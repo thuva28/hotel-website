@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
+### git clone https://github.com/thuva28/hotel-website
+### npm install 
+
 
 In the project directory, you can run:
 
